@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160">
+  <rect width="100%" height="100%" fill="white"/>
+  <g transform="translate(40,20)">
+    <circle cx="60" cy="60" r="50" fill="#FF2D95" />
+    <text x="140" y="80" font-family="Inter, Roboto, Arial" font-size="48" fill="#111111">WokSpec</text>
+  </g>
+</svg>

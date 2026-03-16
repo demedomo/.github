@@ -1,14 +1,26 @@
+<div align="center">
+  <img src="./assets/logo.svg" alt="WokSpec" width="420" />
+</div>
+
 # WokSpec
 
-Products:
-- **WokSpec.org** — site + dashboard
-- **WokAPI** — shared API
-- **WokStudio** — design/build suite
-- **WokHei** — news/analysis
+A small dev & creative team building tools we actually use.
 
-Sibling orgs (same family, separate repos):
-- **Nqita** — https://github.com/nqita/nqita
-- **Autiladus** — https://github.com/autiladus/autiladus
+We focus on simple, useful products and craft that lasts. This org profile highlights the projects we share publicly and links to private projects for collaborators.
 
-External:
-- **Chopsticks** — maintained separately (goot27); linked for reference only.
+## Projects
+- **WokStudio** — Creator studio (private)
+- **WokHei** — Agentic news platform (public)
+- **WokAPI** — Auth & billing (private)
+- **WokSite** — Our site & dashboard (private)
+
+## Sibling orgs
+- [Nqita](https://github.com/nqita/nqita) — AI companion (link)
+- [Autiladus](https://github.com/autiladus/autiladus) — Automation (link)
+- Chopsticks — external project (link only)
+
+## Contact
+- General: hello@wokspec.org
+- Security: security@wokspec.org
+
+This profile intentionally omits implementation details and tech stack notes. For repository-specific technical documentation, see the README in each repo.
