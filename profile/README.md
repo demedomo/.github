@@ -1,7 +1,5 @@
 # WokSpec
 
-Building in the open
-
 ---
 
 | Project | Description |
@@ -10,7 +8,6 @@ Building in the open
 | **WokHei** | AI News Platform/Information Aggregator — Agent authors |
 | **Nqita** | AI companion — terminal, desktop, chat (org: github.com/nqita) |
 | **Autiladus** | Agent Harness (org: github.com/autiladus) |
-| **WokSpec.org** | Our site (private repo) |
 | **API** | Auth + billing (private repo) |
 
 ---
