@@ -4,8 +4,6 @@
 
 ## Projects
 
-## [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
-
 ---
 
 ### [Autiladus](https://github.com/autiladus) [![Autiladus Discord](https://img.shields.io/badge/Discord-Autiladus-5865F2?logo=discord&logoColor=white)](https://discord.gg/T5KnUgAKK3)
@@ -23,6 +21,8 @@ Persistent AI companion that lives persistently across your CLI, desktop, and ch
 ### [Chopsticks](https://github.com/goot27/chopsticks) — Discord bot
 
 Production-grade Discord bot. Contributor-led project [goot27](https://github.com/goot27).
+
+## [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
 
 ---
 
