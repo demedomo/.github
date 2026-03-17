@@ -1,18 +1,18 @@
-## [WokSpec](https://wokspec.org) ### Building in the open.
-
-## [WokStudio](https://github.com/wokspec/WokStudio)
-
-AI creator studio
+## [WokSpec](https://wokspec.org) Building in the open.
 
 ---
 
 ## Projects
 
-### [![NQITA Discord](https://img.shields.io/badge/Discord-NQITA-5865F2?logo=discord&logoColor=white)](https://discord.gg/juunCaGpTW) [NQITA](https://github.com/nqita) 
+## [WokStudio](https://github.com/wokspec/WokStudio)
+
+AI creator studio
+
+### [NQITA](https://github.com/nqita) [![NQITA Discord](https://img.shields.io/badge/Discord-NQITA-5865F2?logo=discord&logoColor=white)](https://discord.gg/juunCaGpTW)
 
 Persistent AI companion that lives persistently across your CLI, desktop, and chat. Not a chatbot — a presence.
 
-### [![Autiladus Discord](https://img.shields.io/badge/Discord-Autiladus-5865F2?logo=discord&logoColor=white)](https://discord.gg/T5KnUgAKK3) [Autiladus](https://github.com/autiladus)
+### [Autiladus](https://github.com/autiladus) [![Autiladus Discord](https://img.shields.io/badge/Discord-Autiladus-5865F2?logo=discord&logoColor=white)](https://discord.gg/T5KnUgAKK3)
 
 Agent legion orchestration harness. Designed to run agents in parallel with clear reasoning boundaries.
 
