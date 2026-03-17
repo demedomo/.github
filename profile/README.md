@@ -4,7 +4,7 @@
 
 ## [WokStudio](https://github.com/wokspec/WokStudio)
 
-### WokSpec's AI creator studio
+AI creator studio
 
 ---
 
