@@ -4,7 +4,7 @@ You have found our github organization. Welcome! - goot27
 
 ---
 
-## Spotlight (projects)
+## Spotlight
 
 ---
 
