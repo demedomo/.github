@@ -22,7 +22,9 @@ Persistent AI companion that lives persistently across your CLI, desktop, and ch
 
 Production-grade Discord bot. Contributor-led project [goot27](https://github.com/goot27).
 
-## [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
+### [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
+
+Full fledged AI creator studio native to WokSpec.  
 
 ---
 
