@@ -1,4 +1,6 @@
-## [WokSpec](https://wokspec.org) Building in the open.
+## [WokSpec](https://wokspec.org)'s Spotlight.
+
+You have found our github organization. Welcome! - goot27
 
 ---
 
@@ -24,7 +26,7 @@ Production-grade Discord bot. Contributor-led project [goot27](https://github.co
 
 ### [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
 
-Full fledged AI creator studio native to WokSpec.  
+Full fledged AI creator studio, native to WokSpec.  
 
 ---
 
