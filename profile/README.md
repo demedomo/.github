@@ -1,10 +1,10 @@
-## [WokSpec](https://wokspec.org)'s Spotlight.
+## [WokSpec](https://wokspec.org)
 
 You have found our github organization. Welcome! - goot27
 
 ---
 
-## Projects
+## Spotlight (projects)
 
 ---
 
