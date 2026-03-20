@@ -1,12 +1,14 @@
 ## [WokSpec](https://wokspec.org) Spotlight
 
-You found our Github organization! Welcome! - goot27
+You found our Github organization! Welcome! 
 
 ---
 
 ### [Autiladus](https://github.com/autiladus) [![Autiladus Discord](https://img.shields.io/badge/Discord-Autiladus-5865F2?logo=discord&logoColor=white)](https://discord.gg/T5KnUgAKK3)
 
 Agent legion orchestration harness. Designed to run agents in parallel with clear reasoning boundaries.
+
+!!! AUTILADUS ORGANIZATION ALONG WITH GOOT27 PERSONAL GITHUB ACCOUNT RECENTLY SUSPENDED DUE TO VIOLATING SOME STUFF ABOUT AGENT SWARMS OR WHATEVER... 
 
 ### [Orinadus](https://github.com/orinadus)
 
