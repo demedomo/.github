@@ -8,7 +8,7 @@ You found our Github organization! Welcome!
 
 Agent Legion Orchestration Harness. Designed to run agents in parallel with clear reasoning boundaries.
 
-**Autiladus** ALONG WITH @goot27 PERSONAL GITHUB ACCOUNT RECENTLY SUSPENDED DUE TO VIOLATING SOME STUFF ABOUT AGENT SWARMS OR WHATEVER... - @ws-sam
+**Autiladus** ALONG WITH @goot27 PERSONAL GITHUB ACCOUNT RECENTLY **SUSPENDED** DUE TO VIOLATING SOME STUFF ABOUT AGENT SWARMS OR WHATEVER... - @ws-sam
 
 ### [Orinadus](https://github.com/orinadus)
 
