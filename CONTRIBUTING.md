@@ -1,95 +1,88 @@
 # Contributing to WokSpec
 
-Thanks for wanting to contribute. WokSpec is a collection of AI-native products and tools built for creators. We welcome bug fixes, features, improvements, and documentation.
+WokSpec is at an early stage — we're building Web3 and AI infrastructure and actively looking for people to grow with. Whether you're a developer, designer, artist, or researcher, there's a place here.
 
 ---
 
-## Quick Reference
+## What We're Building
 
-| Repo | What it is | License |
-|------|------------|---------|
-| [WokTool](https://github.com/WokSpec/WokTool) | 80+ browser dev/design tools | MIT |
-| [Chopsticks](https://github.com/WokSpec/Chopsticks) | Discord bot | MIT |
-| [Eral](https://github.com/WokSpec/Eral) | AI layer — API, extension, widget | FSL-1.1-MIT |
-| [Dilu](https://github.com/WokSpec/Dilu) | No-code product builder | FSL-1.1-MIT |
-| [Vecto](https://github.com/WokSpec/Vecto) | AI design studio | FSL-1.1-MIT |
-| [WokGen](https://github.com/WokSpec/WokGen) | AI pixel art generation | Apache-2.0 |
-| [WokPost](https://github.com/WokSpec/wokpost) | AI-curated news | FSL-1.1-MIT |
-| [WokAPI](https://github.com/WokSpec/WokAPI) | Auth and product registry | FSL-1.1-MIT |
+| Product | What it is | Status |
+|---------|------------|--------|
+| **Orinadus** | Web3 research & intelligence platform — on-chain analysis, DeFi research, AI Authors | Active |
+| **Autiladus** | Client services — sites, systems, automations. Small team, fast delivery | Active |
+| **NQITA** | AI companion with OS-level overlay — moods, memory, persistent presence | Private beta |
+| **WokStudio** | Internal tooling and infrastructure | Internal |
+| **WokAPI** | Auth, billing, product registry | Internal |
 
 ---
 
-## Commits
+## Open Positions / Roles We Need
 
-WokSpec uses **Conventional Commits**:
+We're early-stage and filling roles across the board. If any of these fit, reach out.
+
+**Design & Art**
+- UI/UX designer — particularly for Web3 dashboards and data-heavy interfaces
+- Pixel artist / illustrator — for NQITA character art, game assets, and brand visuals
+- Motion designer — micro-animations, loading states, identity work
+
+**Frontend**
+- Next.js / React developer comfortable with Tailwind and component systems
+- Web3 frontend — wagmi, viem, wallet connection, on-chain data rendering
+
+**Backend / Infrastructure**
+- Cloudflare Workers developer (Hono, D1, R2, Queues)
+- Blockchain data engineer — indexing, event streaming, subgraphs (The Graph / Ponder)
+- Solidity / smart contract developer
+
+**Research & Content**
+- Web3 researcher for Orinadus — DeFi protocols, on-chain analysis
+- Technical writer — documentation, whitepapers, protocol explainers
+
+---
+
+## How to Get Involved
+
+1. **Reach out directly** — [hello@wokspec.org](mailto:hello@wokspec.org). Tell us what you do, what you're interested in, and link relevant work.
+2. **Look at open issues** — public repos have labeled issues. `good first issue` and `help wanted` are the entry points.
+3. **Propose something** — if you see a gap or have an idea, open an issue first before submitting a PR.
+
+---
+
+## Commit Style
+
+We use [Conventional Commits](https://www.conventionalcommits.org/):
 
 ```
 feat:     new feature
 fix:      bug fix
 docs:     documentation only
 style:    formatting, no logic change
-refactor: refactor (no feature/fix)
-perf:     performance improvement
-test:     tests
+refactor: no feature/fix, just structure
+perf:     performance
+test:     tests only
 chore:    tooling, CI, deps
 ```
 
-Examples:
-```
-feat: add CSV export to json-tools
-fix: resolve CORS header on /v1/chat route
-chore: update dependabot config
-docs: improve CLAUDE.md with auth patterns
-```
-
 ---
 
-## Workflow
+## Pull Request Workflow
 
-1. **Fork** the repo or create a branch if you have write access
-2. **Install** dependencies (`npm ci` in most repos)
-3. **Write** your change — keep it focused and minimal
-4. **Typecheck**: `npx tsc --noEmit`
-5. **Lint** (if ESLint is configured): `npx eslint . --max-warnings 0`
-6. **Test** (if tests exist): check the repo's `package.json` scripts
-7. **Commit** using conventional commits
-8. **Push** and open a pull request
-
----
-
-## Pull Requests
-
-- Fill in the PR template fully
-- Link the issue you're solving (if any)
-- Keep the diff small and focused — one concern per PR
-- Passing CI is required before merge
-
----
-
-## Issues
-
-- Bug? Use the Bug Report template
-- Feature? Use the Feature Request template — labeling it `sweep` enables [Sweep AI](https://sweep.dev) to attempt an automated implementation
-
----
-
-## AI Agents
-
-WokSpec repos include `CLAUDE.md` and `.coderabbit.yaml` to give AI agents full context. If you're using Claude Code, GitHub Copilot, Cursor, or similar tools:
-
-- Read `CLAUDE.md` first — it contains the critical constraints for each repo
-- Follow the commit conventions above
-- Run typecheck before committing
-- Don't modify auto-generated files (`prisma/migrations/`, `.next/`, `out/`, etc.)
-
----
-
-## Security
-
-Found a vulnerability? See [SECURITY.md](SECURITY.md) — please don't open a public issue.
+1. Fork or branch (if you have write access)
+2. `npm ci` to install
+3. `npx tsc --noEmit` — must pass
+4. `npx eslint . --max-warnings 0` — must pass
+5. Commit with conventional commits
+6. Open PR — small and focused, one concern per PR
+7. CI must be green before merge
 
 ---
 
 ## Code of Conduct
 
-Be respectful. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+
+---
+
+## AI Agents
+
+All repos include a `CLAUDE.md` with constraints and context for AI-assisted development. If you're using Claude Code, Cursor, or similar — read it first.
