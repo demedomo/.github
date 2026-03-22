@@ -1,7 +1,7 @@
 # WokSpec
 Growing Web3 and AI infrastructure
 
-### Products
+### Mini Umbrella
 
 
 **[Autiladus](https://autiladus.wokspec.org)** — Client services: sites, systems, automations. Small team, fast delivery.
