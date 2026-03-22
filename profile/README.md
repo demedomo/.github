@@ -1,18 +1,16 @@
 # WokSpec
 
-> Web3 and AI infrastructure — early stage, building in public.
+> Web3 and AI infrastructure
 
 ---
 
-## Products
+## Umbrella
 
 **[Orinadus](https://orinadus.wokspec.org)** — Web3 research and intelligence platform. On-chain analysis, DeFi research, AI Authors.
 
 **[Autiladus](https://autiladus.wokspec.org)** — Client services: sites, systems, automations. Small team, fast delivery, no account layer.
 
-**[NQITA](https://wokspec.org)** — AI companion with OS-level overlay. Moods, memory, persistent presence.
-
-**WokStudio** — Internal tooling and infrastructure.
+**[Nqita](https://wokspec.org)** — AI companion with OS-level overlay. Moods, memory, persistent presence.
 
 ---
 
@@ -24,14 +22,14 @@
 
 ---
 
-## We're Hiring / Looking for Contributors
+## Looking for Contributors
 
 Early stage means every role matters. We're looking for:
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
-- **Pixel artists / illustrators** — NQITA character art, game assets, brand visuals
-- **Frontend developers** — Next.js, React, wagmi, viem
-- **Backend / infra** — Cloudflare Workers, Hono, blockchain data indexing
+- **Artists / Illustrators** — Nqita or other character art, game assets, and brand visuals
+- **Frontend Developers** — Next.js, React, wagmi, viem
+- **Backend / Infra** — Cloudflare Workers, Hono, blockchain data indexing
 - **Smart contract devs** — Solidity, Anchor (Solana)
 - **Web3 researchers** — DeFi, on-chain analysis, protocol coverage
 
@@ -41,4 +39,4 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 ---
 
-[wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://twitter.com/wokspec)
+[wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com.com/wokspec) 
