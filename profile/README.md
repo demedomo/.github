@@ -26,7 +26,7 @@
 
 ## Looking for Contributors
 
-** [Samuel's](https://github.com/ws-sam) note: I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
+** Note: I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
 - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
