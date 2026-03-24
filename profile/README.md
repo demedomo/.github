@@ -24,10 +24,6 @@
 
 ## Looking for Contributors
 
-> **[Samuel's](https://github.com/ws-sam) Note:** I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
-
----
-
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
 - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
 - **Frontend Developers** — Next.js, React, wagmi, viem
@@ -39,6 +35,8 @@
 If any of that fits, or if you have any questions, concerns, anything at all... feel free to simply just reach out: [hello@wokspec.org](mailto:hello@wokspec.org)
 
 See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.md) for the full breakdown of open roles and how to get involved.
+
+> **[Samuel's](https://github.com/ws-sam) Note:** I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
 
 ---
 
