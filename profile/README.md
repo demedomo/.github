@@ -6,11 +6,13 @@
 
 ## Umbrella
 
-**[Orinadus](https://orinadus.wokspec.org)** — Web3 research and intelligence platform. On-chain analysis, DeFi research, AI Authors.
+**[Orinadus](https://orinadus.wokspec.org)**
 
-**[Autiladus](https://autiladus.wokspec.org)** — Client services: sites, systems, automations. Small team, fast delivery, no account layer.
+**[Autiladus](https://autiladus.wokspec.org)** 
 
-**[Nqita](https://wokspec.org)** — AI companion with OS-level overlay. Moods, memory, persistent presence.
+**[Nqita](https://wokspec.org)** 
+
+**[Witgam](https://wokspec.org)** 
 
 ---
 
