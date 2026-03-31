@@ -10,13 +10,13 @@
 
 ---
 
-> **[👺 claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+> **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
-> **[🥢 Chopsticks](https://chopsticks.wokspec.org)**
+> **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
-> **[🖵 Liquidock](https://github,com/ws-sam/liquidock)** 
+> **[Chopsticks](https://chopsticks.wokspec.org)**
 
-> **[🦊 Witgam](https://github,com/witgam)** 
+> **[🦊 witgam](https://github,com/witgam)** 
 
 ---
 
