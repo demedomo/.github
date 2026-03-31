@@ -10,6 +10,12 @@
 
 ---
 
+
+
+**[liquidock](https://github,com/ws-sam/liquidock)** 
+
+**[claude-mileage](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
+
 ## Looking for Contributors
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
