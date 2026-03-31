@@ -10,13 +10,13 @@
 
 ---
 
-#### > **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
+> #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
-> **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
-> **[Chopsticks](https://chopsticks.wokspec.org)**
+> #### **[Chopsticks](https://chopsticks.wokspec.org)**
 
-> **[🦊 witgam](https://github,com/witgam)** 
+> #### **[🦊 witgam](https://github,com/witgam)** 
 
 ---
 
