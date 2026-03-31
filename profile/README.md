@@ -8,13 +8,11 @@
 
 **[Orinadus](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
 
+> **[liquidock](https://github,com/ws-sam/liquidock)** 
+
+> **[claude-mileage](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
+
 ---
-
-
-
-**[liquidock](https://github,com/ws-sam/liquidock)** 
-
-**[claude-mileage](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
 
 ## Looking for Contributors
 
