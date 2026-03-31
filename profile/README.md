@@ -14,7 +14,7 @@
 
 > **[🥢 Chopsticks](https://chopsticks.wokspec.org)**
 
-> **[⎅  Liquidock](https://github,com/ws-sam/liquidock)** 
+> **[🖵 Liquidock](https://github,com/ws-sam/liquidock)** 
 
 > **[🦊 Witgam](https://github,com/witgam)** 
 
