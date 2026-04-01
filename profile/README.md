@@ -36,7 +36,7 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 > #### **[chopsticks](https://chopsticks.wokspec.org)**
 
-> #### **[🦊 witgam](https://github,com/witgam)**  
+> #### **[🦊 witgam](https://github.com/witgam)**  
 
 > ####
 
