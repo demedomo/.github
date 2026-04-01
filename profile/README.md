@@ -25,7 +25,7 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 ---
 
-## 🚪Front Door 
+## Building... 
 
 > ### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
