@@ -8,7 +8,7 @@
 
 ---
 
-### 目 Incubating Shelf
+### 目 Incubation Shelf
 
 > Open-source projects, etc.
 
