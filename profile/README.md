@@ -5,7 +5,7 @@
 ---
 
 ### ☰ Shelf 
-> Open-source projects, etc.
+> Open-source projects, etc...
 
 | Project | Description |
 |---|---|
