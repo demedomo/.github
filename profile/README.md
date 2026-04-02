@@ -1,40 +1,24 @@
 # [🏠︎ WokSpec](https://wokspec.org)
 
-> An independent build house. 
+> An independent build house.
 
 ---
 
-## ☂︎ Umbrella
+## Umbrella
 
-
----
-
-> ## Looking for Contributors
-
-> - **Designers** — UI/UX for Web3 dashboards and data interfaces
-> - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
-> - **Frontend Developers** — Next.js, React, wagmi, viem
-> - **Backend / Infra** — Cloudflare Workers, Hono, blockchain data indexing
-> - **Smart contract devs** — Solidity, Anchor (Solana)
-> - **Web3 researchers** — DeFi, on-chain analysis, protocol coverage
-> - **Other...**
-
-If any of that fits, or if you have any questions, concerns, anything at all... feel free to simply just reach out: [hello@wokspec.org](mailto:hello@wokspec.org)
-
-See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.md) for the full breakdown of open roles and how to get involved.
+**[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics
 
 ---
 
-> #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
+## Projects
 
-> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
-
-> #### **[chopsticks](https://chopsticks.wokspec.org)**
-
-> #### **[🦊 witgam](https://github.com/witgam)**  
+| | |
+|---|---|
+| **[nqita-cli](https://github.com/wokspec/nqita-cli)** | agent-agnostic companion runtime |
+| **[LiDock](https://github.com/wokspec/lidock)** | dock runtime for websites and apps |
+| **[token-tengu](https://github.com/wokspec/token-tengu)** | local context prep for the Claude CLI |
+| **[Chopsticks](https://github.com/wokspec/Chopsticks)** | self-hostable Discord bot |
 
 ---
 
 [wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com/wokspec)
-
----
