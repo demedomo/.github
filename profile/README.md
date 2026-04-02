@@ -1,6 +1,6 @@
 # [🏠︎ WokSpec](https://wokspec.org)
 
-> An independent build house
+> An independent build house.
 
 ---
 
