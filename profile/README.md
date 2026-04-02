@@ -10,14 +10,14 @@
 
 ---
 
-## Projects > Open Source
+## 目 Shelf
 
-| | |
-| ☰ | Description... |
+| ☰ | Description |
+|---|---|
 | **[nqita-cli](https://github.com/wokspec/nqita-cli)** | agent-agnostic companion runtime |
 | **[token-tengu](https://github.com/wokspec/token-tengu)** | local context prep for the Claude CLI |
 | **[LiDock](https://github.com/wokspec/lidock)** | dock runtime for websites and apps |
-| **[Chopsticks](https://github.com/wokspec/Chopsticks)** | Prod-grade self-hostable Discord bot |
+| **[Chopsticks](https://github.com/wokspec/chopsticks)** | production-grade self-hostable Discord bot |
 
 ---
 
