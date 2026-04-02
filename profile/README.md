@@ -4,8 +4,6 @@
 
 ---
 
-## ☂︎ 
-
 **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics
 
 ---
