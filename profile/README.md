@@ -4,7 +4,7 @@
 
 ---
 
-## **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics
+## **[Orinadus.com](https://orinadus.com)**
 
 ---
 
