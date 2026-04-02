@@ -4,20 +4,20 @@
 
 ---
 
-## Umbrella
+## Umbrella 
 
 **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics
 
 ---
 
-## Projects
+## Projects > Open Source
 
 | | |
 |---|---|
 | **[nqita-cli](https://github.com/wokspec/nqita-cli)** | agent-agnostic companion runtime |
-| **[LiDock](https://github.com/wokspec/lidock)** | dock runtime for websites and apps |
 | **[token-tengu](https://github.com/wokspec/token-tengu)** | local context prep for the Claude CLI |
-| **[Chopsticks](https://github.com/wokspec/Chopsticks)** | self-hostable Discord bot |
+| **[LiDock](https://github.com/wokspec/lidock)** | dock runtime for websites and apps |
+| **[Chopsticks](https://github.com/wokspec/Chopsticks)** | Prod-grade self-hostable Discord bot |
 
 ---
 
