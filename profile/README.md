@@ -1,4 +1,4 @@
-## [🏠︎ House](https://house.wokspec.org) 
+
 > An independant build house by WokSpec
 
 ---
