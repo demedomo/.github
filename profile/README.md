@@ -1,6 +1,6 @@
 # 🏠︎ House
 
-**by Wokspec**
+> **by Wokspec**
 
 House is the product studio of Wokspec LLC.
 
