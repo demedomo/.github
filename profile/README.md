@@ -2,7 +2,7 @@
 
 > **by Wokspec**
 
-House is the product studio of Wokspec LLC.
+An independent build studio, incubating. 
 
 | Product | Description |
 |---------|-------------|
