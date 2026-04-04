@@ -1,6 +1,6 @@
 # Developer Setup
 
-Get up and running on any WokSpec repo.
+Get up and running on any House by Wokspec repo.
 
 ---
 
@@ -16,7 +16,7 @@ Get up and running on any WokSpec repo.
 ## Quick Start
 
 ```bash
-git clone git@github.com:wokspec/<repo>.git
+git clone git@github.com:ws-house/<repo>.git
 cd <repo>
 npm ci          # or: pnpm install
 npm run dev
@@ -28,16 +28,16 @@ npm run dev
 
 | Repo | Stack | Notes |
 |------|-------|-------|
-| [nqita-cli](https://github.com/wokspec/nqita-cli) | TypeScript, Node.js | Local daemon + CLI |
-| [lidock](https://github.com/wokspec/lidock) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
-| [token-tengu](https://github.com/wokspec/token-tengu) | TypeScript, Node.js | CLI tool |
-| [chopsticks](https://github.com/wokspec/chopsticks) | Node.js, discord.js | Discord bot |
+| [chopsticks](https://github.com/ws-house/chopsticks) | Node.js, discord.js | Discord bot |
+| [nqita-cli](https://github.com/ws-house/nqita-cli) | TypeScript, Node.js | Local daemon + CLI |
+| [lidock](https://github.com/ws-house/lidock) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
+| [token-tengu](https://github.com/ws-house/token-tengu) | TypeScript, Node.js | CLI tool |
 
 ---
 
 ## Commit Format
 
-All WokSpec repos use **conventional commits**. The `commit-msg` hook rejects non-conforming commits.
+All House by Wokspec repos use **conventional commits**. The `commit-msg` hook rejects non-conforming commits.
 
 ```
 <type>: <description>
@@ -50,7 +50,6 @@ Examples:
 git commit -m "feat: add adapter interface to nqita-cli"
 git commit -m "fix: resolve import path in lidock core"
 git commit -m "chore: update typescript to 5.5"
-git commit -m "docs: improve CLAUDE.md constraints"
 ```
 
 Header max 100 characters. No sentence-case, PascalCase, or UPPER_CASE in the description.
@@ -75,12 +74,6 @@ git checkout -b chore/update-deps
 2. Open a PR
 3. CI (type-check, lint, tests) must be green
 4. Get a review, then merge
-
----
-
-## AI Agents
-
-Every repo has a `CLAUDE.md` containing architecture context, constraints, and patterns. Read it before making changes with an AI agent.
 
 ---
 

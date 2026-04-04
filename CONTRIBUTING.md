@@ -1,6 +1,6 @@
-# Contributing to WokSpec
+# Contributing to House by Wokspec
 
-WokSpec is an independent build house. We ship focused tools and runtimes, mostly open source.
+House (🏠︎House℠) is the product studio of Wokspec LLC. We ship focused tools and runtimes, mostly open source.
 
 ---
 
@@ -8,10 +8,10 @@ WokSpec is an independent build house. We ship focused tools and runtimes, mostl
 
 | Project | What it is |
 |---------|------------|
-| **[nqita-cli](https://github.com/wokspec/nqita-cli)** | Agent-agnostic companion runtime for developer AI tools |
-| **[LiDock](https://github.com/wokspec/lidock)** | Dock runtime for websites and apps |
-| **[token-tengu](https://github.com/wokspec/token-tengu)** | Local context prep layer for the Claude CLI |
-| **[Chopsticks](https://github.com/wokspec/chopsticks)** | Self-hostable Discord bot |
+| **[Chopsticks](https://github.com/ws-house/chopsticks)** | Production-grade self-hostable Discord bot — music, moderation, economy, AI, agent pooling |
+| **[nqita-cli](https://github.com/ws-house/nqita-cli)** | Agent-agnostic companion runtime for developer AI tools |
+| **[LiDock](https://github.com/ws-house/lidock)** | Liquid glass dock / runtime for websites and apps |
+| **[token-tengu](https://github.com/ws-house/token-tengu)** | Local context prep layer for the Claude CLI |
 
 ---
 
@@ -55,9 +55,3 @@ chore:    tooling, CI, deps
 ## Code of Conduct
 
 See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
-
----
-
-## AI Agents
-
-Repos include a `CLAUDE.md` with constraints and context for AI-assisted development. If you're using Claude Code or similar — read it before making changes.

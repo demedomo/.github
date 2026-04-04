@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We are committed to making participation in WokSpec a respectful, inclusive experience for everyone — regardless of age, background, experience level, disability, ethnicity, identity, or technical preference.
+We are committed to making participation in House by Wokspec repositories a respectful, inclusive experience for everyone — regardless of age, background, experience level, disability, ethnicity, identity, or technical preference.
 
 ---
 
@@ -23,7 +23,7 @@ We are committed to making participation in WokSpec a respectful, inclusive expe
 
 ## Scope
 
-This applies to all WokSpec GitHub repositories, issues, PRs, discussions, and any other community spaces linked from WokSpec products.
+This applies to all House by Wokspec GitHub repositories, issues, PRs, discussions, and any other community spaces linked from House products.
 
 ---
 

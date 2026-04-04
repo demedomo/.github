@@ -1,0 +1,8 @@
+AGENT_RULES.md
+PROJECT_CONTEXT.md
+*_CONTEXT.md
+CLAUDE.md
+.claude/
+.env
+.env.*
+ecosystem-docs/

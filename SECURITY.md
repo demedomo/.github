@@ -6,10 +6,10 @@ Security patches are maintained for the current version of each active project.
 
 | Project | Supported |
 |---------|-----------|
-| nqita-cli (current) | ✅ |
-| LiDock (current) | ✅ |
-| token-tengu (current) | ✅ |
-| Chopsticks (current) | ✅ |
+| Chopsticks by 🏠︎House℠ (current) | ✅ |
+| nqita-cli by 🏠︎House℠ (current) | ✅ |
+| LiDock by 🏠︎House℠ (current) | ✅ |
+| token-tengu by 🏠︎House℠ (current) | ✅ |
 
 ---
 

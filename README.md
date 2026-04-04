@@ -1,9 +1,9 @@
-# wokspec/.github
+# ws-house/.github
 
-Community health files and org profile for [WokSpec](https://wokspec.org).
+Organization profile and community health files for [House by Wokspec](https://house.wokspec.org).
 
-The org profile is at [`profile/README.md`](./profile/README.md) — that's what appears on [github.com/wokspec](https://github.com/wokspec).
+Profile is at [`profile/README.md`](./profile/README.md).
 
 ---
 
-**Contact:** hello@wokspec.org · security@wokspec.org
+**Contact:** hello@wokspec.org
