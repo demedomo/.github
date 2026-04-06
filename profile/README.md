@@ -1,28 +1,6 @@
-<div align="center">
-
-<img src="assets/liquid-glass-aest1_cropped.png" width="300" alt="House" />
-
-<br/>
-
-# 🏠︎ House
-
-**An independent build studio. We make products, tools, and technology — across AI, developer infrastructure, and whatever else is worth building.**
-
-*A [Wokspec](https://wokspec.org) company.*
-
-<br/>
-
-[![house.wokspec.org](https://img.shields.io/badge/house.wokspec.org-000000?style=for-the-badge)](https://house.wokspec.org)
-[![hello@wokspec.org](https://img.shields.io/badge/hello%40wokspec.org-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@wokspec.org)
-[![@househq](https://img.shields.io/badge/@househq-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/househq)
-
-</div>
-
----
-
 ## What lives here
 
-House builds across a wide range — open source tools, Discord bots, developer runtimes, AI-adjacent projects, and future ventures still taking shape. If it's worth making and doesn't fit cleanly into a category, it probably belongs here.
+Mad House builds across a wide range — open source tools, Discord bots, developer runtimes, AI-adjacent projects, and future ventures still taking shape. If it's worth making and doesn't fit cleanly into a category, it probably belongs here.
 
 Products range from production-ready self-hostable software to early experiments. Some are fully open source. Some are in active development. Some are just getting started.
 
