@@ -4,6 +4,8 @@ Mad House builds across a wide range — open source tools, Discord bots, develo
 
 Products range from production-ready self-hostable software to early experiments. Some are fully open source. Some are in active development. Some are just getting started.
 
+https://discord.gg/tQtK5mdaxK
+
 ---
 
 ## Products
