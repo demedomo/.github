@@ -1,4 +1,4 @@
-## What lives here
+## Inside the Mad House
 
 Mad House builds across a wide range — open source tools, Discord bots, developer runtimes, AI-adjacent projects, and future ventures still taking shape. If it's worth making and doesn't fit cleanly into a category, it probably belongs here.
 
