@@ -4,8 +4,6 @@ Mad House builds across a wide range — open source tools, Discord bots, develo
 
 Products range from production-ready self-hostable software to early experiments. Some are fully open source. Some are in active development. Some are just getting started.
 
-https://discord.gg/tQtK5mdaxK - discord server
-
 ---
 
 ## Products
@@ -64,12 +62,3 @@ Do not open public issues for vulnerabilities. Report privately:
 See [SECURITY.md](./SECURITY.md) for the full policy. We acknowledge within 48 hours.
 
 ---
-
-<div align="center">
-
-[![house.wokspec.org](https://img.shields.io/badge/house.wokspec.org-000000?style=for-the-badge)](https://house.wokspec.org)
-[![hello@wokspec.org](https://img.shields.io/badge/hello%40wokspec.org-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@wokspec.org)
-[![security@wokspec.org](https://img.shields.io/badge/security%40wokspec.org-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:security@wokspec.org)
-[![@househq](https://img.shields.io/badge/@househq-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/househq)
-
-</div>
