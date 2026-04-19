@@ -10,7 +10,7 @@ Products range from production-ready self-hostable software to early experiments
 
 | | Project | Status | Issues | Stars |
 |-|---------|--------|--------|-------|
-| 🥢 | **[Chopsticks](https://github.com/househq/chopsticks)** — Production-grade self-hostable Discord bot | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/chopsticks?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/chopsticks?style=flat-square&color=555) |
+| 🥢 | **[Chopsticks](https://github.com/househq/chopsticks)** — Full feature self-hostable Discord bot | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/chopsticks?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/chopsticks?style=flat-square&color=555) |
 | 🪟 | **[LiDock](https://github.com/househq/lidock)** — Liquid glass dock runtime for websites and apps | ![beta](https://img.shields.io/badge/beta-facc15?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/lidock?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/lidock?style=flat-square&color=555) |
 | 👺 | **[Tokengu](https://github.com/househq/token-tengu)** — Local context prep for the Claude CLI | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/token-tengu?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/token-tengu?style=flat-square&color=555) |
 
