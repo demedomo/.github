@@ -1,0 +1,23 @@
+name: Org workflow proposal
+description: Suggest a change to org-wide GitHub defaults, templates, or repo standards
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or gap
+      description: What is wrong or missing in the current org-wide standard?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What should change across Mad House repos?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Downstream impact
+      description: Which repos or templates would need to change?
