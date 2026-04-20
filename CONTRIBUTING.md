@@ -1,37 +1,36 @@
-# Contributing to House
+# Contributing to Mad House
 
-House is an independent build studio. We ship open source tools, developer runtimes, bots, and more. Contributions are welcome across all repos.
+Mad House ships bots, agent tooling, playbooks, runtime experiments, and org-wide GitHub defaults. Contributions are welcome, but the workflow is explicit: branch first, PR second, human merge last.
 
 ---
 
-## Before you start
+## Before You Start
 
-- **Browse issues first** — most work starts with an open issue
-- **Open an issue before a PR** for anything non-trivial — we want to align before you spend time coding
+- **Read the repo first** — don't submit a PR to a repo whose scope you haven't read
 - **One concern per PR** — keep it scoped and reviewable
-- **Ask questions** — if something's unclear, comment on the issue or email [hello@wokspec.org](mailto:hello@wokspec.org)
+- **Use a branch** — agents and humans work on branches, not on `main`
+- **Open a PR with a real body** — What / Why / Testing / Notes
 
 ---
 
-## Finding something to work on
+## Repos In Scope
 
-| Where to look | Link |
+| Repo | Link |
 |--------------|------|
-| Chopsticks open issues | [househq/chopsticks/issues](https://github.com/househq/chopsticks/issues) |
-| nqita-cli open issues | [househq/nqita-cli/issues](https://github.com/househq/nqita-cli/issues) |
-| LiDock open issues | [househq/lidock/issues](https://github.com/househq/lidock/issues) |
-| token-tengu open issues | [househq/token-tengu/issues](https://github.com/househq/token-tengu/issues) |
+| Agents | [madebymadhouse/agents](https://github.com/madebymadhouse/agents) |
+| Bot Dev Playbook | [madebymadhouse/bot-dev-playbook](https://github.com/madebymadhouse/bot-dev-playbook) |
+| VPS Maintenance Playbook | [madebymadhouse/vps-maintenance-playbook](https://github.com/madebymadhouse/vps-maintenance-playbook) |
+| Chopsticks Lean | [madebymadhouse/chopsticks-lean](https://github.com/madebymadhouse/chopsticks-lean) |
+| Chopsticks | [madebymadhouse/chopsticks](https://github.com/madebymadhouse/chopsticks) |
+| Liquibar | [madebymadhouse/liquibar](https://github.com/madebymadhouse/liquibar) |
 
-### Issue labels
+### Shared Expectations
 
-| Label | What it means |
-|-------|--------------|
-| `good first issue` | Low complexity — well-scoped, good entry point |
-| `help wanted` | We want a PR — any experience level welcome |
-| `roadmap` | Planned work — not yet assigned |
-| `bug` | Something's broken |
-| `enhancement` | New capability or improvement |
-| `discussion` | Needs shaping before it becomes a task |
+- Conventional commits
+- One logical change per commit
+- One PR, one thing
+- CODEOWNERS where review responsibility matters
+- Shared workflow described in the Bot Dev Playbook
 
 ---
 
@@ -44,13 +43,34 @@ npm ci          # or: pnpm install
 npm run dev
 ```
 
-Requirements: **Node.js 20+**, **Git with SSH**.
+Requirements vary by repo. Default toolchain assumptions:
+- **Node.js 22+** for bot repos
+- **pnpm** for workspace repos like Liquibar
+- **GitHub CLI** for PR-first workflow
 
 ---
 
-## Commit format
+## Workflow Standard
 
-All House repos use [Conventional Commits](https://www.conventionalcommits.org/):
+Mad House uses branch-first, PR-first development.
+
+Canonical standard:
+
+https://github.com/madebymadhouse/bot-dev-playbook/blob/main/AGENTIC_GIT_WORKFLOW.md
+
+Short version:
+1. Create a branch from `main` or `dev` as documented in that repo
+2. Make one scoped change
+3. Commit with conventional commits
+4. Push the branch
+5. Open a PR with What / Why / Testing / Notes
+6. Human reviews and merges
+
+---
+
+## Commit Format
+
+All Mad House repos use [Conventional Commits](https://www.conventionalcommits.org/):
 
 ```
 feat:     new feature
@@ -78,16 +98,13 @@ git commit -m "WIP"
 
 ---
 
-## PR workflow
+## PR Workflow
 
-1. Fork or branch from `main`
-2. Install dependencies
-3. Make your change — keep scope tight
-4. Type-check and lint must pass locally
-5. Commit with conventional commits
-6. Open a PR — describe what changed and why
-7. CI must be green before merge
-8. One approval required
+Every PR should answer four things:
+1. What changed
+2. Why it changed
+3. How it was tested
+4. Anything the reviewer should watch for
 
 Branch naming:
 ```
@@ -99,27 +116,6 @@ docs/improve-readme
 
 ---
 
-## Feature requests
-
-Open an issue with the `enhancement` label. Describe:
-- What problem it solves
-- Rough expected behavior
-- Any prior art or references
-
-We review and tag as `roadmap` if it's planned, or close with context if it's out of scope.
-
----
-
 ## Code of Conduct
 
 See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md). Short version: be constructive, be direct, focus on the work.
-
----
-
-## Contact
-
-| Topic | Contact |
-|-------|---------|
-| General | [hello@wokspec.org](mailto:hello@wokspec.org) |
-| Security | [security@wokspec.org](mailto:security@wokspec.org) — do not open public issues |
-| Code of Conduct | [conduct@wokspec.org](mailto:conduct@wokspec.org) |

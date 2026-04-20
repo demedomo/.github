@@ -6,19 +6,35 @@ Products range from production-ready self-hostable software to early experiments
 
 ---
 
-## Products
+## Repos
 
 | | Project | Status | Issues | Stars |
 |-|---------|--------|--------|-------|
-| 🥢 | **[Chopsticks](https://github.com/househq/chopsticks)**  Full feature self-hostable Discord bot | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/chopsticks?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/chopsticks?style=flat-square&color=555) |
-| 🪟 | **[LiDock](https://github.com/househq/lidock)**  Liquid glass dock runtime for websites and apps | ![beta](https://img.shields.io/badge/beta-facc15?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/lidock?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/lidock?style=flat-square&color=555) |
-| 👺 | **[Tokengu](https://github.com/househq/token-tengu)**  Local context prep for the Claude CLI | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/househq/token-tengu?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/househq/token-tengu?style=flat-square&color=555) |
+| 🤖 | **[Agents](https://github.com/madebymadhouse/agents)**  Canonical Mad House agent fleet | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/agents?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/agents?style=flat-square&color=555) |
+| 📘 | **[Bot Dev Playbook](https://github.com/madebymadhouse/bot-dev-playbook)**  Shared workflow and standards for bot work | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/bot-dev-playbook?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/bot-dev-playbook?style=flat-square&color=555) |
+| 🛠️ | **[VPS Maintenance Playbook](https://github.com/madebymadhouse/vps-maintenance-playbook)**  Live server runbooks and control-plane docs | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/vps-maintenance-playbook?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/vps-maintenance-playbook?style=flat-square&color=555) |
+| 🥢 | **[Chopsticks Lean](https://github.com/madebymadhouse/chopsticks-lean)**  Lean self-hosted production Discord bot | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/chopsticks-lean?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/chopsticks-lean?style=flat-square&color=555) |
+| 🍜 | **[Chopsticks](https://github.com/madebymadhouse/chopsticks)**  Full Discord bot stack with music, web, and agent systems | ![active](https://img.shields.io/badge/active-4ade80?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/chopsticks?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/chopsticks?style=flat-square&color=555) |
+| 🪟 | **[Liquibar](https://github.com/madebymadhouse/liquibar)**  Dock runtime monorepo in prototype phase | ![prototype](https://img.shields.io/badge/prototype-facc15?style=flat-square) | ![issues](https://img.shields.io/github/issues/madebymadhouse/liquibar?style=flat-square&color=555) | ![stars](https://img.shields.io/github/stars/madebymadhouse/liquibar?style=flat-square&color=555) |
 
 ---
 
-## Roadmap & Status
+## Workflow Standard
 
-Each project tracks its own work in GitHub Issues. The labels below are consistent across all House repos.
+Every Mad House repo should follow the same branch / PR / merge path:
+
+1. work on a branch
+2. commit in logical units
+3. open a PR with What / Why / Testing / Notes
+4. human reviews and merges
+
+Canonical guide:
+
+https://github.com/madebymadhouse/bot-dev-playbook/blob/main/AGENTIC_GIT_WORKFLOW.md
+
+---
+
+## Labels
 
 | Label | What it means |
 |-------|--------------|
@@ -29,26 +45,7 @@ Each project tracks its own work in GitHub Issues. The labels below are consiste
 | `enhancement` | New capability or improvement |
 | `discussion` | Not a task yet — needs shaping |
 
-**Jump into issues:**
-
-[![Chopsticks issues](https://img.shields.io/github/issues/househq/chopsticks/help%20wanted?style=flat-square&label=chopsticks%20help+wanted&color=4ade80)](https://github.com/househq/chopsticks/issues?q=is%3Aopen+label%3A%22help+wanted%22)
-[![nqita issues](https://img.shields.io/github/issues/househq/nqita-cli/help%20wanted?style=flat-square&label=nqita+help+wanted&color=4ade80)](https://github.com/househq/nqita-cli/issues?q=is%3Aopen+label%3A%22help+wanted%22)
-[![LiDock issues](https://img.shields.io/github/issues/househq/lidock/help%20wanted?style=flat-square&label=lidock+help+wanted&color=4ade80)](https://github.com/househq/lidock/issues?q=is%3Aopen+label%3A%22help+wanted%22)
-[![token-tengu issues](https://img.shields.io/github/issues/househq/token-tengu/help%20wanted?style=flat-square&label=token-tengu+help+wanted&color=4ade80)](https://github.com/househq/token-tengu/issues?q=is%3Aopen+label%3A%22help+wanted%22)
-
----
-
-## Contributing
-
-Read [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guide. Short version:
-
-1. **Find something** — browse `good first issue` or `help wanted` in any repo
-2. **Open an issue first** — before submitting a PR for anything non-trivial
-3. **Use conventional commits** — `feat:`, `fix:`, `docs:`, `chore:` etc.
-4. **One thing per PR** — focused, scoped, reviewable
-5. **CI must pass** — type-check, lint, tests
-
-For larger contributions, feature proposals, or questions — open an issue tagged `discussion`.
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for the full org-wide contributor standard.
 
 ---
 
@@ -57,7 +54,7 @@ For larger contributions, feature proposals, or questions — open an issue tagg
 Do not open public issues for vulnerabilities. Report privately:
 
 - **GitHub Security Advisory** — "Report a vulnerability" on the affected repo
-- **Email** — [security@wokspec.org](mailto:security@wokspec.org)
+- **GitHub Security Advisory** — use the affected repo's Security tab
 
 > See [SECURITY.md](./SECURITY.md) for the full policy.
 

@@ -1,12 +1,12 @@
 # Developer Setup
 
-Get up and running on any House by Wokspec repo.
+Get up and running on any Mad House repo.
 
 ---
 
 ## Prerequisites
 
-- **Node.js 20+** — [nvm](https://github.com/nvm-sh/nvm) recommended: `nvm use 20`
+- **Node.js 22+** — [nvm](https://github.com/nvm-sh/nvm) recommended: `nvm use 22`
 - **pnpm** — some repos use pnpm workspaces: `npm i -g pnpm`
 - **Git** with SSH configured for GitHub
 - **GitHub CLI** (`gh`) — for PR workflows
@@ -16,7 +16,7 @@ Get up and running on any House by Wokspec repo.
 ## Quick Start
 
 ```bash
-git clone git@github.com:househq/<repo>.git
+git clone git@github.com:madebymadhouse/<repo>.git
 cd <repo>
 npm ci          # or: pnpm install
 npm run dev
@@ -28,16 +28,18 @@ npm run dev
 
 | Repo | Stack | Notes |
 |------|-------|-------|
-| [chopsticks](https://github.com/househq/chopsticks) | Node.js, discord.js | Discord bot |
-| [nqita-cli](https://github.com/househq/nqita-cli) | TypeScript, Node.js | Local daemon + CLI |
-| [lidock](https://github.com/househq/lidock) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
-| [token-tengu](https://github.com/househq/token-tengu) | TypeScript, Node.js | CLI tool |
+| [agents](https://github.com/madebymadhouse/agents) | Markdown agent specs | Canonical fleet repo |
+| [bot-dev-playbook](https://github.com/madebymadhouse/bot-dev-playbook) | Markdown playbook | Shared workflow and standards |
+| [vps-maintenance-playbook](https://github.com/madebymadhouse/vps-maintenance-playbook) | Markdown control-plane docs | Live VPS maintenance notebook |
+| [chopsticks-lean](https://github.com/madebymadhouse/chopsticks-lean) | Node.js, discord.js | Lean production bot |
+| [chopsticks](https://github.com/madebymadhouse/chopsticks) | Node.js, discord.js, web | Full bot stack |
+| [liquibar](https://github.com/madebymadhouse/liquibar) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
 
 ---
 
 ## Commit Format
 
-All House by Wokspec repos use **conventional commits**. The `commit-msg` hook rejects non-conforming commits.
+All Mad House repos use **conventional commits**.
 
 ```
 <type>: <description>
@@ -47,8 +49,8 @@ Types: feat  fix  docs  style  refactor  perf  test  chore  ci
 
 Examples:
 ```bash
-git commit -m "feat: add adapter interface to nqita-cli"
-git commit -m "fix: resolve import path in lidock core"
+git commit -m "feat(agents): add git-keeper agent"
+git commit -m "fix(topology): update chopsticks remote"
 git commit -m "chore: update typescript to 5.5"
 ```
 
@@ -61,23 +63,24 @@ Header max 100 characters. No sentence-case, PascalCase, or UPPER_CASE in the de
 Use the type as your branch prefix:
 
 ```bash
-git checkout -b feat/adapter-system
-git checkout -b fix/dock-layout-overflow
-git checkout -b chore/update-deps
+git checkout -b feat/short-description
+git checkout -b fix/short-description
+git checkout -b docs/short-description
 ```
 
 ---
 
 ## PR Workflow
 
-1. Push your branch
-2. Open a PR
-3. CI (type-check, lint, tests) must be green
-4. Get a review, then merge
+Canonical standard:
+
+https://github.com/madebymadhouse/bot-dev-playbook/blob/main/AGENTIC_GIT_WORKFLOW.md
+
+Default rule: agents push branches and open PRs; humans review and merge.
 
 ---
 
 ## Getting Help
 
 - Open an issue in the relevant repo
-- Email [hello@wokspec.org](mailto:hello@wokspec.org)
+- Open a discussion or issue in the relevant repo

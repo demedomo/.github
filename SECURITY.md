@@ -6,10 +6,12 @@ Security patches are maintained for the current version of each active project.
 
 | Project | Supported |
 |---------|-----------|
-| Chopsticks by 🏠︎House℠ (current) | ✅ |
-| nqita-cli by 🏠︎House℠ (current) | ✅ |
-| LiDock by 🏠︎House℠ (current) | ✅ |
-| token-tengu by 🏠︎House℠ (current) | ✅ |
+| madebymadhouse/agents | ✅ |
+| madebymadhouse/bot-dev-playbook | ✅ |
+| madebymadhouse/vps-maintenance-playbook | ✅ |
+| madebymadhouse/chopsticks-lean | ✅ |
+| madebymadhouse/chopsticks | ✅ |
+| madebymadhouse/liquibar | ✅ |
 
 ---
 

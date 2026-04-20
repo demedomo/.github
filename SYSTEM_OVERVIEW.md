@@ -1,10 +1,8 @@
 # System Overview
 
-## House
+## Mad House
 
-House is an independent build studio operating under [Wokspec LLC](https://wokspec.org). All House products and projects live under the [`househq`](https://github.com/househq) GitHub org.
-
-This `.github` repository contains the organization profile and community health files for the `househq` org.
+Mad House is the current GitHub organization for the repos in this workspace. This `.github` repository contains the organization profile and shared community-health defaults for [`madebymadhouse`](https://github.com/madebymadhouse).
 
 ---
 
@@ -12,17 +10,18 @@ This `.github` repository contains the organization profile and community health
 
 | Project | Repo | Status |
 |---------|------|--------|
-| Chopsticks | [househq/chopsticks](https://github.com/househq/chopsticks) | Active |
-| nqita-cli | [househq/nqita-cli](https://github.com/househq/nqita-cli) | Active |
-| LiDock | [househq/lidock](https://github.com/househq/lidock) | Beta |
-| token-tengu | [househq/token-tengu](https://github.com/househq/token-tengu) | Active |
-| Witgam | — | Planning |
+| Agents | [madebymadhouse/agents](https://github.com/madebymadhouse/agents) | Active |
+| Bot Dev Playbook | [madebymadhouse/bot-dev-playbook](https://github.com/madebymadhouse/bot-dev-playbook) | Active |
+| VPS Maintenance Playbook | [madebymadhouse/vps-maintenance-playbook](https://github.com/madebymadhouse/vps-maintenance-playbook) | Active |
+| Chopsticks Lean | [madebymadhouse/chopsticks-lean](https://github.com/madebymadhouse/chopsticks-lean) | Active |
+| Chopsticks | [madebymadhouse/chopsticks](https://github.com/madebymadhouse/chopsticks) | Active |
+| Liquibar | [madebymadhouse/liquibar](https://github.com/madebymadhouse/liquibar) | Prototype |
 
 ---
 
 ## Scope
 
-House builds across multiple fronts: open source tools, developer runtimes, AI-adjacent software, and ventures in early development. Work ranges from production-ready to experimental.
+Mad House builds across multiple fronts: bots, agent fleets, control-plane repos, GitHub workflow defaults, and runtime experiments. Work ranges from production-ready to prototype, but the Git workflow standard should stay consistent across all of it.
 
 ---
 
@@ -30,11 +29,13 @@ House builds across multiple fronts: open source tools, developer runtimes, AI-a
 
 | Domain | Purpose |
 |--------|---------|
-| house.wokspec.org | House landing page |
-| chopsticks.wokspec.org | Chopsticks product page |
+| github.com/madebymadhouse | GitHub org home |
+| github.com/madebymadhouse/.github | Org profile and shared community defaults |
 
 ---
 
-## Parent Company
+## Workflow Standard
 
-House is a venture of Wokspec LLC. For parent company documentation, see [wokspec/.github](https://github.com/wokspec/.github).
+Branch / PR / merge standard:
+
+https://github.com/madebymadhouse/bot-dev-playbook/blob/main/AGENTIC_GIT_WORKFLOW.md
