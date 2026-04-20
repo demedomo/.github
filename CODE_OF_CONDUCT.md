@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We are committed to making participation in House by Wokspec repositories a respectful, inclusive experience for everyone — regardless of age, background, experience level, disability, ethnicity, identity, or technical preference.
+We are committed to making participation in Mad House repositories a respectful, inclusive experience for everyone — regardless of age, background, experience level, disability, ethnicity, identity, or technical preference.
 
 ---
 
@@ -23,13 +23,13 @@ We are committed to making participation in House by Wokspec repositories a resp
 
 ## Scope
 
-This applies to all House by Wokspec GitHub repositories, issues, PRs, discussions, and any other community spaces linked from House products.
+This applies to all Mad House GitHub repositories, issues, PRs, discussions, and any other community spaces linked from Mad House projects.
 
 ---
 
 ## Enforcement
 
-Violations can be reported to conduct@wokspec.org. Reports are reviewed confidentially. Actions may include a warning, temporary ban, or permanent removal depending on severity.
+Violations can be reported through private maintainer channels in the relevant repository. Reports are reviewed confidentially. Actions may include a warning, temporary ban, or permanent removal depending on severity.
 
 ---
 

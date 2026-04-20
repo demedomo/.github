@@ -22,7 +22,7 @@ Security patches are maintained for the current version of each active project.
 Report privately:
 
 1. **GitHub Security Advisory** (preferred) — use the "Report a vulnerability" button on the affected repo's Security tab
-2. **Email** — security@wokspec.org
+2. **Private Maintainer Contact** — use repository maintainers for private coordination if advisory creation is not available
 
 Include:
 - A clear description of the vulnerability
